@@ -81,6 +81,8 @@
                                     <br>
                                     <br>
                                      <button type="button" class="btn btn-primary" id="btn1">Log in</button>
+                                      <button type="button" class="btn btn-primary" id="btn1">Log in</button>
+                                       <button type="button" class="btn btn-primary" id="btn1">Log in</button>
                                 </div>  
                                
                             </form>
